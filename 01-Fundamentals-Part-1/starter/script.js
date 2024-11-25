@@ -1,4 +1,5 @@
-const curentYear = 2023;
-const ageDipto = curentYear - 2002;
-const ageRoy = curentYear - 2000;
-console.log(ageDipto, ageRoy);
+"use strict";
+function logeer() {
+    console.log(`My name is Dipto`);
+}
+logeer();
